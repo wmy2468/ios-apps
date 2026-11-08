@@ -21,3 +21,16 @@
 - 票记：https://github.com/wmy2468/receipt-ledger
 - 智账：https://github.com/wmy2468/aibill-ios
 - 清单：https://github.com/wmy2468/qingdan-ipa
+
+## 版本规则
+
+1. **文件名必须带版本号**：`<App>-v<版本>.ipa`，例如 `ReceiptLedger-v1.2.ipa`
+2. **每次发版新建 Release**（tag 用日期 `vYYYY.MM.DD`），**不覆盖**已有资产
+3. 旧版本永久保留，想回退直接下对应的旧包
+
+## 版本历史
+
+| 日期 | 票记 | 智账 | 清单 |
+|---|---|---|---|
+| 2026.11.08 | 1.1 | 1.1 | 1.2.0 |
+
