@@ -18,6 +18,14 @@
 2. 长按文件 → 共享 → TrollStore
 3. TrollStore 里点 Install
 
+**Release 下载报 504 时（GitHub 网关抽风）**，用 raw 备用直链：
+
+```
+https://raw.githubusercontent.com/wmy2468/ios-apps/main/files/ReceiptLedger-v1.3.ipa
+```
+
+`files/` 目录只放最新的票记包，Release 里的历史版本不动。
+
 覆盖升级：同 bundle id 装新版本会替换旧 App，数据一般保留；升级前建议先在设置里导一份 CSV。
 
 ## 源码仓库
